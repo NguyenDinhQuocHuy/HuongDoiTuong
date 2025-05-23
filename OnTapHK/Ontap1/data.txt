@@ -1,0 +1,5 @@
+N,ABC,Huy,20
+NV,DEF,Kiet,20,2.5m,2409,Nhan vien
+QL,XYZ,Long,19,20.0m,2410,Quan ly,Nhan su
+QL,IFJ,Gia Huy,19,25.0m,2411,Quan ly,Nhan su
+QL,IKL,Quoc Huy,19,25.0m,2421,Quan ly,Ke toan
