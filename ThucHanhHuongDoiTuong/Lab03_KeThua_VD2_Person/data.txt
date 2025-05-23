@@ -1,0 +1,5 @@
+﻿Person, Nguyen Van A, 30
+Student, Le Thi B, 20, DH Kinh Te
+Teacher, Tran Van C, 40, Toan
+Student, Hoang Thi D, 21, DH Bach Khoa
+Teacher, Nguyen Van E, 35, Ly

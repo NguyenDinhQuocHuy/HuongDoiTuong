@@ -1,0 +1,18 @@
+Car,Vinfast,60,7
+Car,Honda,50,4
+Motorcycle,Honda,40
+Car,Nissan GTR,140,2
+Motorcycle,Winner X,80
+Car,Porsche,180,2
+Car,BMW,190,4
+Motorcycle,Air Blade,100
+Motorcycle,Vision,70
+Car,Tesla,200,4
+Car,Mercedes,210,7
+Car,Kia,100,4
+Car,Koenigsegg,214,1
+Car,Mitsubishi,120,7
+Car,Daewoo,80,2
+Motorcycle,Ducati,135
+Motorcycle,Kawasaki,140
+Car,Thaco,120

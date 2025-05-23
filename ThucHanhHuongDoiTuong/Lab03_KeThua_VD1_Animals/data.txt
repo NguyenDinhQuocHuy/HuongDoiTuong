@@ -1,0 +1,3 @@
+Dog,A,2,Shiba
+Dog,B,3,Chihuahua
+Lion,C,5,Congo

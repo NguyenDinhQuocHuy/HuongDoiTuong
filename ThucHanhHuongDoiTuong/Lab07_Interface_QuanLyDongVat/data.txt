@@ -1,0 +1,4 @@
+﻿Lion,Leo,3
+Bat,CV19,1
+Bat,Keke,2
+Bird,Eagle,2

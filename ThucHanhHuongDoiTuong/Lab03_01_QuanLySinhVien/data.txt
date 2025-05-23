@@ -1,0 +1,4 @@
+001,Nguyen Van A,7.5,Nam,CTK48
+002,Nguyen Van B,8.0,Nu,CTK48
+003,Nguyen Van C,3.0, Nam, CTK48
+004,Nguyen Van D,7.0, Nam, CTK48
